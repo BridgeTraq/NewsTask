@@ -10,7 +10,7 @@ export default function Footer() {
         <div className='grid grid-cols-4 gap-16 relative mt-[60px]'>
             <div className='flex flex-col'>
                 <div className='flex-1 flex flex-col gap-2'>
-                    <h1 className='text-red-600 font-bold text-3xl'>Buletin</h1>
+                    <h1 className='text-red-600 font-bold text-3xl'>Parados News</h1>
                     <p className='text-[#40444d] text-md font-medium'>Craft narratives that ignites inspiration, knowledge, and entertainment.</p>
                     <div className='flex items-center gap-2 mt-5'>
                         <div className='h-10 w-10 flex justify-center items-center drop-shadow-lg rounded-full bg-white'>
@@ -35,7 +35,7 @@ export default function Footer() {
                         </div>
                     </div>
                 </div>
-                <p className='text-[#40444d] text-sm font-medium'>Copyright &copy; 2023 Buletin.</p>
+                <p className='text-[#40444d] text-sm font-medium'>Copyright &copy; {new Date().getFullYear()} Parados News.</p>
             </div>
 
             <div className='col-span-3'>

@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
-export default function Creator() {
-    return (
-        <div>
-
-        </div>
-    )
+function Creator() {
+  return <div></div>;
 }
+
+export default Creator;

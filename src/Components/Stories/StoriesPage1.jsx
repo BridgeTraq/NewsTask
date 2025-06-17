@@ -29,7 +29,7 @@ export default function StoriesPage1() {
     return (
         <div className='mt-10'>
             <div className='flex flex-col gap-2 items-center bg-[#f4f3f3] rounded-lg p-[30px]'>
-                <h1 className='text-[17px] font-medium text-[#40444d]'>WELCOME TO BULETIN</h1>
+                <h1 className='text-[17px] font-medium text-[#40444d]'>WELCOME TO PARADOS NEWS</h1>
                 <p className='text-3xl font-bold'>Craft narratives ✍️ that ignites <span className='text-red-600'>inspiration</span>💡,</p>
                 <p className='text-3xl font-bold'><span className='text-red-600'>knowledge </span>📙, and <span className='text-red-600'>entertainment</span> 🎬</p>
             </div>

@@ -12,7 +12,7 @@ export default function NavLinks() {
         <div className='flex justify-between items-center text-[16px] font-medium'>
             <nav className='flex items-center gap-10'>
                 <div className='border-r-[2px] border-r-[#b1b2b5] pr-10 text-red-600 text-2xl font-bold'>
-                    <h1>Buletin</h1>
+                    <h1>Parados News</h1>
                 </div>
 
                 {navLinks.map((item) => (
